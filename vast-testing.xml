@@ -1,0 +1,41 @@
+<VAST version="2.0">
+<Ad id="Test">
+<InLine>
+<AdSystem version="2.0">Test</AdSystem>
+<AdTitle>Test</AdTitle>
+<Error>http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/error</Error>
+<Impression>http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/impression</Impression>
+<Creatives>
+<Creative sequence="1" AdID="7E7F3BE9-9717-4289-9094-B77EEDC4086A">
+<Linear skipoffset="00:00:05">
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="start">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/start</Tracking>
+<Tracking event="firstQuartile">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/firstQuartile</Tracking>
+<Tracking event="midpoint">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/midpoint</Tracking>
+<Tracking event="thirdQuartile">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/thirdQuartile</Tracking>
+<Tracking event="complete">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/complete</Tracking>
+<Tracking event="mute">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/mute</Tracking>
+<Tracking event="unmute">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/unmute</Tracking>
+<Tracking event="rewind">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/rewind</Tracking>
+<Tracking event="pause">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/pause</Tracking>
+<Tracking event="resume">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/resume</Tracking>
+<Tracking event="fullscreen">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/fullscreen</Tracking>
+<Tracking event="creativeView">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/creativeView</Tracking>
+<Tracking event="acceptInvitation">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/acceptInvitation</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="123">http://google.com</ClickThrough>
+<ClickTracking id="123">http://1bdhi5brlgb50qp6dm4upst5twznnib7.ns1.steelcdn.net/click</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="video" delivery="progressive" type="video/mp4" bitrate="1215" width="1280" height="720">
+https://basil79.github.io/vast-sample-tags/pg/24.mp4
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
