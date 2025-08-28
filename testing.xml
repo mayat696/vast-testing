@@ -29,7 +29,7 @@
 <ClickTracking id="123">http://www.example.com/click</ClickTracking>
 </VideoClicks>
 <MediaFiles>
-<MediaFile id="video" delivery="progressive" type="video/mp4" bitrate="1215" width="1280" height="720">
+<MediaFile id="video" delivery="progressive">
 https://raw.githubusercontent.com/mayat696/vast-testing/refs/heads/main/test.txt
 </MediaFile>
 </MediaFiles>
