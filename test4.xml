@@ -1,0 +1,20 @@
+<VAST version="2.0">
+<Ad id="Test">
+<InLine>
+<AdSystem version="2.0">Test</AdSystem>
+<AdTitle>Test</AdTitle>
+<Creatives>
+<Creative sequence="1" AdID="7E7F3BE9-9717-4289-9094-B77EEDC4086A">
+<Linear skipoffset="00:00:05">
+<Duration>00:00:30</Duration>
+<MediaFiles>
+<MediaFile id="video" delivery="progressive" type="video/mp4" width="1280" height="720">
+https://raw.githubusercontent.com/mayat696/vast-testing/refs/heads/main/test.txt
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
